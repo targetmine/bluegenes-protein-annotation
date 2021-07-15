@@ -1,0 +1,13 @@
+{
+  "accepts": ["id"],
+  "classes": ["Protein"],
+  "files" : {
+    "css" : "dist/style.css",
+    "js" : "dist/bundle.js"
+  },
+  "toolName" : {
+    "human" :"Protein annotation summary",
+    "cljs" :"bluegenesProteinAnnotation"    
+  },
+  "version": 2
+}
