@@ -1,10 +1,11 @@
 #  Protein annotation summary
 
 Protein annotation summary is a tool made for [BlueGenes](http://bluegenes.apps.intermine.org) following BlueGenes Tool API.
-Add more description of your tool here! :)
+This tool summarizes a few protein annotations in tables including UniProt comments, UniProt features and protein modifications.
 
-## Licence
+## License
 
+The MIT License - see [LICENSE](LICENSE)
 
 ### To set up locally for development
 
