@@ -6,7 +6,7 @@
   "homepage": "http://www.intermine.org",
   "repository": {
     "type": "git",
-    "url": "git@github.com:chenyian-nibio/bluegenes-protein-annotation.git"
+    "url": "git@github.com:targetmine/bluegenes-protein-annotation.git"
   },
   "files": [
     "/dist",
